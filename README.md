@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darlingxkill
 - 👀 I’m interested in reading and gaming
-- 🌱 I’m currently learning computer science and psychology
+- 🌱 I’m currently learning software engineering and psychology
 - 💞️ I’m looking to collaborate on something hoogee
 - 📫 How to reach me twitter @darlingxkill
 
